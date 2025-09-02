@@ -62,5 +62,5 @@ Write-Host "`nTesting yt-dlp:"
 Write-Host "`nTesting ffmpeg:"
 & (Join-Path $ffmpegBin "ffmpeg.exe") -version
 
-Write-Host "Download completed. Pleace restart PowerShell"
+Write-Host "Download completed. Please restart PowerShell"
 Write-Host "Thank you for using"
