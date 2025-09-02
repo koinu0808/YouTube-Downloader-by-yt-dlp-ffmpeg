@@ -1,9 +1,8 @@
 # YouTube-Downloader-by-yt-dlp & ffmpeg
 ***Pleace Download Python First***
 
-This project can help you download & setting PATH for yt-dlp and ffmpeg
-
-Just run ./YouTube-Downloader-for-Windows.ps1 and wait for it to finish.   
+## This project can help you download & setting PATH for yt-dlp and ffmpeg
+Just run `./YouTube-Downloader-for-Windows.ps1` and wait for it to finish.   
 After done. You will restart PowerShell
 
 yt-dlp Usage:  
